@@ -1,6 +1,6 @@
 # 411 Project: Music Sharing Platform ­— BadDJ
 
-![BadDJ Logo](baddj_logo.jpg)
+
 [![](thumbnail.png)](https://www.youtube.com/watch?v=5NM12dlQH0c)
 ## Members
 * Bernard Mulaw
